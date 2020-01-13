@@ -1,0 +1,6 @@
+org/openmrs/module/ssemr/api/SSEMRutilsmoduleService.class
+org/openmrs/module/ssemr/api/dao/SSEMRutilsmoduleDao.class
+org/openmrs/module/ssemr/SSEMRutilsmoduleConfig.class
+org/openmrs/module/ssemr/SSEMRutilsmoduleActivator.class
+org/openmrs/module/ssemr/api/impl/SSEMRutilsmoduleServiceImpl.class
+org/openmrs/module/ssemr/Item.class
